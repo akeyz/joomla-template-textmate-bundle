@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;?php
+if(\$this-&gt;countModules('${1:left}') == ${2:0}) \$${3:right} = "${4:600}";
+?&gt;</string>
+	<key>name</key>
+	<string>Module Condition</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>jmodule</string>
+	<key>uuid</key>
+	<string>490AA0DB-9698-4785-A916-523462589658</string>
+</dict>
+</plist>

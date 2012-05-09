@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;?php if(\$this-&gt;countModules('${1:left}')) : ?&gt;
+	&lt;jdoc:include type="modules" name="${/$1" style="${2:XHTML}" /&gt;
+&lt;?php endif; ?&gt;</string>
+	<key>name</key>
+	<string>Position</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>jposition</string>
+	<key>uuid</key>
+	<string>CCAAB4F8-FA1B-4F15-A0EB-9E2D304DD115</string>
+</dict>
+</plist>

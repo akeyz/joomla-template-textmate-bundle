@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;?php
+/**
+ * @template	Joomla Template by ${1:iSolution (http://www.iSolution.me/)}
+ * @copyright	Template - Copyright Joomla!
+ * @copyright	Joomla! CMS - Copyright (C) 2005 - 2012 Open Source Matters. All rights reserved.
+ * @license		GNU/GPL (copyright.php)
+ * Joomla! is free software. This version may have been modified pursuant
+ * to the GNU General Public License, and as distributed it includes or
+ * is derivative of works licensed under the GNU General Public License or
+ * other free or open source software licenses.
+ * See COPYRIGHT.php for copyright notices and details.
+ */
+defined( '_JEXEC' ) or die( 'Restricted access' );
+
+/* The Following line loads the MooTools JavaScript Library */
+JHtml::_('behavior.framework', true);
+?&gt;
+
+&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&gt;
+&lt;html xmlns="http://www.w3.org/1999/xhtml" xml:lang="&lt;?php echo \$this-&gt;language; ?&gt;" lang="&lt;?php echo \$this-&gt;language; ?&gt;" &gt;
+&lt;head&gt;
+	&lt;jdoc:include type="head" /&gt;
+	&lt;link rel="stylesheet" href="&lt;?php echo $this-&gt;baseurl ?&gt;/templates/system/css/system.css" type="text/css" /&gt;
+	&lt;link rel="stylesheet" href="&lt;?php echo $this-&gt;baseurl ?&gt;/templates/system/css/general.css" type="text/css" /&gt;
+	&lt;link rel="stylesheet" href="&lt;?php echo $this-&gt;baseurl ?&gt;/templates/&lt;?php echo \$this-&gt;template ?&gt;/css/template.css" type="text/css" /&gt;
+&lt;/head&gt;</string>
+	<key>name</key>
+	<string>Head 2.5</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>jhead</string>
+	<key>uuid</key>
+	<string>A5AF09B3-432F-4F12-A8FF-99C5FE93CC20</string>
+</dict>
+</plist>

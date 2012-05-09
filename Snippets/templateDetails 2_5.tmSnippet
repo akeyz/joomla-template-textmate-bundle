@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;!DOCTYPE install PUBLIC "-//Joomla! 2.5//DTD template 1.0//EN" "http://www.joomla.org/xml/dtd/1.6/template-install.dtd"&gt;
+&lt;extension type="template" version="2.5" client="site"&gt;
+  &lt;name&gt;$1&lt;/name&gt;
+  &lt;version&gt;$2&lt;/version&gt;
+  &lt;creationDate&gt;$3&lt;/creationDate&gt;
+  &lt;author&gt;$4&lt;/author&gt;
+  &lt;authorEmail&gt;$5&lt;/authorEmail&gt;
+  &lt;authorUrl&gt;$6&lt;/authorUrl&gt;
+  &lt;copyright&gt;$7&lt;/copyright&gt;
+  &lt;license&gt;$8&lt;/license&gt;
+  &lt;description&gt;$9&lt;/description&gt;
+  &lt;files&gt;
+	&lt;folder&gt;css&lt;/folder&gt;
+	&lt;folder&gt;html&lt;/folder&gt;
+	&lt;folder&gt;images&lt;/folder&gt;
+	&lt;filename&gt;component.php&lt;/filename&gt;
+	&lt;filename&gt;index.html&lt;/filename&gt;
+	&lt;filename&gt;index.php&lt;/filename&gt;
+	&lt;filename&gt;templateDetails.xml&lt;/filename&gt;
+  &lt;/files&gt;
+  &lt;positions&gt;
+    &lt;position&gt;left&lt;/position&gt;
+    &lt;position&gt;right&lt;/position&gt;
+    &lt;position&gt;top&lt;/position&gt;
+    &lt;position&gt;bottom&lt;/position&gt;
+    &lt;position&gt;inset&lt;/position&gt;
+    &lt;position&gt;banner&lt;/position&gt;
+    &lt;position&gt;header&lt;/position&gt;
+    &lt;position&gt;footer&lt;/position&gt;
+    &lt;position&gt;newsflash&lt;/position&gt;
+    &lt;position&gt;legals&lt;/position&gt;
+    &lt;position&gt;pathway&lt;/position&gt;
+    &lt;position&gt;breadcrumb&lt;/position&gt;
+    &lt;position&gt;user1&lt;/position&gt;
+    &lt;position&gt;user2&lt;/position&gt;
+    &lt;position&gt;user3&lt;/position&gt;
+    &lt;position&gt;user4&lt;/position&gt;
+    &lt;position&gt;user5&lt;/position&gt;
+    &lt;position&gt;user6&lt;/position&gt;
+    &lt;position&gt;user7&lt;/position&gt;
+    &lt;position&gt;user8&lt;/position&gt;
+    &lt;position&gt;user9&lt;/position&gt;
+    &lt;position&gt;advert1&lt;/position&gt;
+    &lt;position&gt;advert2&lt;/position&gt;
+    &lt;position&gt;advert3&lt;/position&gt;
+    &lt;position&gt;debug&lt;/position&gt;
+    &lt;position&gt;syndicate&lt;/position&gt;
+  &lt;/positions&gt;
+&lt;/extension&gt;</string>
+	<key>name</key>
+	<string>Template Details 2.5</string>
+	<key>scope</key>
+	<string>text.xml</string>
+	<key>tabTrigger</key>
+	<string>jdetails</string>
+	<key>uuid</key>
+	<string>47700AE0-2D42-4BEB-92A5-819AF79E6B08</string>
+</dict>
+</plist>

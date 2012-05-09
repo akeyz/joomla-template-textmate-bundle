@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;jdoc:include type="module" name="breadcrumbs" /&gt;</string>
+	<key>name</key>
+	<string>Breadcrumbs</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>jbreadcrumbs</string>
+	<key>uuid</key>
+	<string>3F4D1A9C-76FF-444D-ACE8-864603DFE338</string>
+</dict>
+</plist>
